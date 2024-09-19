@@ -36,6 +36,7 @@ body {
     padding: 1em;
     color: var(--branco-principal);
     display: block;
+    text-decoration: none;
 }
 .container__aviso {
     font-size: 12px;
