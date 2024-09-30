@@ -50,7 +50,7 @@ body {
 
 .container__imagem {
     margin: 2em 0 4em 0;
-    width: 80%; /* A largura será ajustada para 80% do tamanho original, e a altura será ajustada proporcionalmente */
+    width: 10%; /* A largura será ajustada para 80% do tamanho original, e a altura será ajustada proporcionalmente */
     height: auto;
 }
 
